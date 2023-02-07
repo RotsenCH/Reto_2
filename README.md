@@ -7,7 +7,7 @@
 #### 2. Nestor Chumania
 #### 3. Danny Vinueza
 
-[imagen-2023-02-07-001048050.png](https://postimg.cc/yJF8CHcD)
+[![imagen-2023-02-07-001048050.png](https://i.postimg.cc/HLNc5WL9/imagen-2023-02-07-001048050.png)](https://postimg.cc/yJF8CHcD)
 
 Link de Netlify:
 
