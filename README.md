@@ -11,4 +11,4 @@
 
 Link de Netlify:
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ccc62699-eb7b-40be-8c65-ae7db83d7db5/deploy-status)](https://app.netlify.com/sites/shiny-otter-2e80b3/deploys)
+https://warm-youtiao-cc46ae.netlify.app
